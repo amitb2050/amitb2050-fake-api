@@ -1,4 +1,4 @@
-[
+{"gallery": [
     {
         "title": "Album 1",
         "description": "Album Description 1",
@@ -160,3 +160,4 @@
         ]
     }
 ]
+}
