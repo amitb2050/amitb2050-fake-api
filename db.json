@@ -1,1 +1,162 @@
-{"gallery": [{"title": "Album 1", "description": "Album Description 1", "slug": "Album-1", "album_images": [{"image": "https://via.placeholder.com/600/92c952", "thumb_url": "https://via.placeholder.com/150/92c952", "image_name": "accusamus beatae ad facilis cum similique qui sunt"}, {"image": "https://via.placeholder.com/600/771796", "thumb_url": "https://via.placeholder.com/150/771796", "image_name": "reprehenderit est deserunt velit ipsam"}, {"image": "https://via.placeholder.com/600/24f355", "thumb_url": "https://via.placeholder.com/150/24f355", "image_name": "officia porro iure quia iusto qui ipsa ut modi"}, {"image": "https://via.placeholder.com/600/d32776", "thumb_url": "https://via.placeholder.com/150/d32776", "image_name": "culpa odio esse rerum omnis laboriosam voluptate repudiandae"}, {"image": "https://via.placeholder.com/600/f66b97", "thumb_url": "https://via.placeholder.com/150/f66b97", "image_name": "natus nisi omnis corporis facere molestiae rerum in"}]}, {"title": "Album 2", "description": "Album Description 2", "slug": "Album-2", "album_images": [{"image": "https://via.placeholder.com/600/8e973b", "thumb_url": "https://via.placeholder.com/150/8e973b", "image_name": "non sunt voluptatem placeat consequuntur rem incidunt"}, {"image": "https://via.placeholder.com/600/121fa4", "thumb_url": "https://via.placeholder.com/150/121fa4", "image_name": "eveniet pariatur quia nobis reiciendis laboriosam ea"}, {"image": "https://via.placeholder.com/600/6efc5f", "thumb_url": "https://via.placeholder.com/150/6efc5f", "image_name": "soluta et harum aliquid officiis ab omnis consequatur"}, {"image": "https://via.placeholder.com/600/aa8f2e", "thumb_url": "https://via.placeholder.com/150/aa8f2e", "image_name": "ut ex quibusdam dolore mollitia"}, {"image": "https://via.placeholder.com/600/5e04a4", "thumb_url": "https://via.placeholder.com/150/5e04a4", "image_name": "voluptatem consequatur totam qui aut iure est vel"}]}, {"title": "Album 3", "description": "Album Description 3", "slug": "Album-3", "album_images": [{"image": "https://via.placeholder.com/600/e743b", "thumb_url": "https://via.placeholder.com/150/e743b", "image_name": "incidunt alias vel enim"}, {"image": "https://via.placeholder.com/600/a393af", "thumb_url": "https://via.placeholder.com/150/a393af", "image_name": "eaque iste corporis tempora vero distinctio consequuntur nisi nesciunt"}, {"image": "https://via.placeholder.com/600/35cedf", "thumb_url": "https://via.placeholder.com/150/35cedf", "image_name": "et eius nisi in ut reprehenderit labore eum"}, {"image": "https://via.placeholder.com/600/313b40", "thumb_url": "https://via.placeholder.com/150/313b40", "image_name": "et natus vero quia totam aut et minima"}, {"image": "https://via.placeholder.com/600/eaf2e1", "thumb_url": "https://via.placeholder.com/150/eaf2e1", "image_name": "veritatis numquam eius"}]}, {"title": "Album 4", "description": "Album Description 4", "slug": "Album-4", "album_images": [{"image": "https://via.placeholder.com/600/1d2ad4", "thumb_url": "https://via.placeholder.com/150/1d2ad4", "image_name": "possimus dolor minima provident ipsam"}, {"image": "https://via.placeholder.com/600/a01c5b", "thumb_url": "https://via.placeholder.com/150/a01c5b", "image_name": "et accusantium enim pariatur eum nihil fugit"}, {"image": "https://via.placeholder.com/600/9da52c", "thumb_url": "https://via.placeholder.com/150/9da52c", "image_name": "eum laborum in sunt ea"}, {"image": "https://via.placeholder.com/600/7f330f", "thumb_url": "https://via.placeholder.com/150/7f330f", "image_name": "dolorum ipsam odit"}, {"image": "https://via.placeholder.com/600/877cd8", "thumb_url": "https://via.placeholder.com/150/877cd8", "image_name": "occaecati sed earum ab ut vel quibusdam perferendis nihil"}]}, {"title": "Album 5", "description": "Album Description 5", "slug": "Album-5", "album_images": [{"image": "https://via.placeholder.com/600/250289", "thumb_url": "https://via.placeholder.com/150/250289", "image_name": "nesciunt dolorum consequatur ullam tempore accusamus debitis sit"}, {"image": "https://via.placeholder.com/600/6a0f83", "thumb_url": "https://via.placeholder.com/150/6a0f83", "image_name": "explicabo vel omnis corporis debitis qui qui"}, {"image": "https://via.placeholder.com/600/3a5c29", "thumb_url": "https://via.placeholder.com/150/3a5c29", "image_name": "labore vel voluptate ipsum quaerat debitis velit"}, {"image": "https://via.placeholder.com/600/e4cc33", "thumb_url": "https://via.placeholder.com/150/e4cc33", "image_name": "beatae est vel tenetur"}, {"image": "https://via.placeholder.com/600/dc17bf", "thumb_url": "https://via.placeholder.com/150/dc17bf", "image_name": "fugiat est ut ab sit et tempora"}]}]}
+[
+    {
+        "title": "Album 1",
+        "description": "Album Description 1",
+        "slug": "Album-1",
+        "images": [
+            {
+                "image_url": "https://via.placeholder.com/600/92c952",
+                "thumb_url": "https://via.placeholder.com/150/92c952",
+                "title": "accusamus beatae ad facilis cum similique qui sunt"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/771796",
+                "thumb_url": "https://via.placeholder.com/150/771796",
+                "title": "reprehenderit est deserunt velit ipsam"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/24f355",
+                "thumb_url": "https://via.placeholder.com/150/24f355",
+                "title": "officia porro iure quia iusto qui ipsa ut modi"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/d32776",
+                "thumb_url": "https://via.placeholder.com/150/d32776",
+                "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/f66b97",
+                "thumb_url": "https://via.placeholder.com/150/f66b97",
+                "title": "natus nisi omnis corporis facere molestiae rerum in"
+            }
+        ]
+    },
+    {
+        "title": "Album 2",
+        "description": "Album Description 2",
+        "slug": "Album-2",
+        "images": [
+            {
+                "image_url": "https://via.placeholder.com/600/8e973b",
+                "thumb_url": "https://via.placeholder.com/150/8e973b",
+                "title": "non sunt voluptatem placeat consequuntur rem incidunt"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/121fa4",
+                "thumb_url": "https://via.placeholder.com/150/121fa4",
+                "title": "eveniet pariatur quia nobis reiciendis laboriosam ea"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/6efc5f",
+                "thumb_url": "https://via.placeholder.com/150/6efc5f",
+                "title": "soluta et harum aliquid officiis ab omnis consequatur"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/aa8f2e",
+                "thumb_url": "https://via.placeholder.com/150/aa8f2e",
+                "title": "ut ex quibusdam dolore mollitia"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/5e04a4",
+                "thumb_url": "https://via.placeholder.com/150/5e04a4",
+                "title": "voluptatem consequatur totam qui aut iure est vel"
+            }
+        ]
+    },
+    {
+        "title": "Album 3",
+        "description": "Album Description 3",
+        "slug": "Album-3",
+        "images": [
+            {
+                "image_url": "https://via.placeholder.com/600/e743b",
+                "thumb_url": "https://via.placeholder.com/150/e743b",
+                "title": "incidunt alias vel enim"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/a393af",
+                "thumb_url": "https://via.placeholder.com/150/a393af",
+                "title": "eaque iste corporis tempora vero distinctio consequuntur nisi nesciunt"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/35cedf",
+                "thumb_url": "https://via.placeholder.com/150/35cedf",
+                "title": "et eius nisi in ut reprehenderit labore eum"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/313b40",
+                "thumb_url": "https://via.placeholder.com/150/313b40",
+                "title": "et natus vero quia totam aut et minima"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/eaf2e1",
+                "thumb_url": "https://via.placeholder.com/150/eaf2e1",
+                "title": "veritatis numquam eius"
+            }
+        ]
+    },
+    {
+        "title": "Album 4",
+        "description": "Album Description 4",
+        "slug": "Album-4",
+        "images": [
+            {
+                "image_url": "https://via.placeholder.com/600/1d2ad4",
+                "thumb_url": "https://via.placeholder.com/150/1d2ad4",
+                "title": "possimus dolor minima provident ipsam"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/a01c5b",
+                "thumb_url": "https://via.placeholder.com/150/a01c5b",
+                "title": "et accusantium enim pariatur eum nihil fugit"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/9da52c",
+                "thumb_url": "https://via.placeholder.com/150/9da52c",
+                "title": "eum laborum in sunt ea"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/7f330f",
+                "thumb_url": "https://via.placeholder.com/150/7f330f",
+                "title": "dolorum ipsam odit"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/877cd8",
+                "thumb_url": "https://via.placeholder.com/150/877cd8",
+                "title": "occaecati sed earum ab ut vel quibusdam perferendis nihil"
+            }
+        ]
+    },
+    {
+        "title": "Album 5",
+        "description": "Album Description 5",
+        "slug": "Album-5",
+        "images": [
+            {
+                "image_url": "https://via.placeholder.com/600/250289",
+                "thumb_url": "https://via.placeholder.com/150/250289",
+                "title": "nesciunt dolorum consequatur ullam tempore accusamus debitis sit"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/6a0f83",
+                "thumb_url": "https://via.placeholder.com/150/6a0f83",
+                "title": "explicabo vel omnis corporis debitis qui qui"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/3a5c29",
+                "thumb_url": "https://via.placeholder.com/150/3a5c29",
+                "title": "labore vel voluptate ipsum quaerat debitis velit"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/e4cc33",
+                "thumb_url": "https://via.placeholder.com/150/e4cc33",
+                "title": "beatae est vel tenetur"
+            },
+            {
+                "image_url": "https://via.placeholder.com/600/dc17bf",
+                "thumb_url": "https://via.placeholder.com/150/dc17bf",
+                "title": "fugiat est ut ab sit et tempora"
+            }
+        ]
+    }
+]
